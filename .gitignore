@@ -1,0 +1,13 @@
+# Dependencies & Environment
+node_modules/
+.env
+uploads/
+database.sqlite
+backend_backup.zip
+
+# Heavy Camera Master Originals (preserved locally, excluded from git)
+_camera_raw/
+
+# System Files
+.DS_Store
+Thumbs.db

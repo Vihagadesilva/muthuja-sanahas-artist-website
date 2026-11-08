@@ -1,0 +1,21 @@
+{
+  "name": "Muthuja Sanahas | Official Website",
+  "short_name": "Muthuja",
+  "description": "Official website of Sri Lankan singer, songwriter, and composer Muthuja Sanahas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070a10",
+  "theme_color": "#3678c6",
+  "icons": [
+    {
+      "src": "/favicon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
